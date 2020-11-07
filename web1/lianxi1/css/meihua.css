@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    width: 1500px;
+}
+
+.logo{
+    height: 220px;
+    background-color: black;
+    color: white;
+    font-size: 100px ;
+    font-weight: bolder;
+    
+}
+.caidan{
+    height: 80px;
+    background-color: rgb(73, 2, 2);
+}
+.caidan a{
+    color:white;
+    font-size: 30px;
+    text-decoration: none;
+    float: left;
+    overflow: auto;
+    padding: 20px;
+}
+.caidan a:hover{
+    background-color:black;
+}

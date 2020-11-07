@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    width: 1550px;
+}
+
+.logo{
+    line-height: 220px;
+    background-color: black;
+    color: white;
+    font-size: 100px ;
+    font-weight: bolder;
+    
+}
+.caidan{
+    height: 80px;
+    background-color: rgb(73, 2, 2);
+}
+.caidan a{
+    color:white;
+    font-size: 30px;
+    text-decoration: none;
+    float: left;
+    overflow: auto;
+    padding: 20px;
+}
+.caidan a:hover{
+    background-color:black;
+}
+.bgimg img{
+    width: 100%;
+    
+}
+/* .bgpic{
+    position:fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:100%;
+    min-width: 1000px;
+    z-index:-10;
+    zoom: 1;
+    background-color: #fff;
+    background: url('/img/ronaldo1.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
+} */

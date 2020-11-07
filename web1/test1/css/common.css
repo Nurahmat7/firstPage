@@ -1,0 +1,24 @@
+.header .logo{
+    font-size: large;/*字体大小*/
+    background-color: rgb(42, 165, 63);/*背景颜色*/
+    color: white;/*字体颜色*/
+    padding: 50px;/*内边距*/
+}
+.header .nav{
+    background-color: tomato;/*背景颜色*/
+    overflow: auto;/*使用浮动的时候结合使用*/
+}
+.header .nav a.shouye{
+    background-color: black;
+}
+.header .nav a{
+    background-color: tomato;
+    font-size: large;
+    color: white;
+    float: left;/*向左浮动*/
+    padding: 10px;
+    text-decoration: none;/*去下划线*/
+}
+.header .nav a:hover{  /*鼠标放上去的时候的*/
+    background-color: black;
+}
